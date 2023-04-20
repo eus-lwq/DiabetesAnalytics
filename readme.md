@@ -1,11 +1,22 @@
 
 <!-- ABOUT THE PROJECT -->
-# Diabetes Analytics
+# Diabetes Health Indicator Analytics
+
+### Contributors
+* Wanqing Li 20146670 | 18wl19@queensu.ca
+* Yulu Chen 20150856 | 18yc124@queensu.ca
+* Lu Chen 20164422 | 18lc44@queensu.ca
+* Yingqi Xu 20158700 | 18yx84@queensu.ca
+* Sixuan Zhang 20204414 | 19sz61@queensu.ca
+* Yiying Chen 20198951 | 19yc56@queensu.ca
+
+### Instructor: Dr. Brian Ling
 
 ### Motivation
 According to IDF Diabetes statistics [1], there are five thirty seven million adults all over the world living with diabetes which means 1 in 10 adults will experience diabetes.  Diabetes is responsible for 6.7 million deaths in 2021 which means 1 Death every 5 seconds. Diabetic patients more likely to be hospitalized due to serious risks such as Blindness, Heart Disease, Loss of arm or legs, kidney failure and reduce lifetime etc. Meanwhile, Diabetes also causes hundreds of billion US dollars in health expenditure around the world. That's why it's important for us to understand how to prevent and manage diabetes effectively. By analyzing risk factors. and use. We hope that we can help people to know their diabate possibility as an early screening tool. Make people live healthier. And reduce the overall burden of this disease on our society. To achieve our goal, we chose a dataset called Diabete Health Indicator [2] from Kaggle, prior works on Kaggle are mostly using the Neural Networks to train prediction models, and we only use statistical methods in this report to try to compare with them.
 
-### Data Visualizations
+### Dataset Visualizations
+The dataset we used is from Kaggle "Diabetes health indicators dataset [2]", the visualization file can be found in *Data_Visualizations.R*.
 Can check the report section 2.0 in *STAT362_Diabetes_health_indicator_analytics_report.pdf*
 
 ### Approaches
@@ -17,13 +28,15 @@ Can check the report section 2.0 in *STAT362_Diabetes_health_indicator_analytics
 
 ### Result
 Can check the report in *STAT362_Diabetes_health_indicator_analytics_report.pdf*
-### Contributors
-* Wanqing Li 20146670 | 18wl19@queensu.ca
-* Yulu Chen 20150856 | 18yc124@queensu.ca
-* Lu Chen 20164422 | 18lc44@queensu.ca
-* Yingqi Xu 20158700 | 18yx84@queensu.ca
-* Sixuan Zhang 20204414 | 19sz61@queensu.ca
-* Yiying Chen 20198951 | 19yc56@queensu.ca
+
+### Contributions
+Contributions:
+* Wanqing Li: organizations, data visualizations, build clustering model (discarded), presentation, introduction, discussion and conclusion
+* Sixuan Zhang: data visualizations, build decision tree model, presentation
+* Yingqi Xu: data visualizations, build random forest model, presentation
+* Yiying Chen: data visualizations, build KNN model, presentation
+* Yulu Chen: data visualizations, build Naïve Bayes model, presentation
+* Lu Chen: data visualizations, build logistic regression model, presentation
 
 ### References
 [1] International Diabetes Federation. (2021). Resources. Diabetes Atlas. Retrieved April 20, 2023, from https://diabetesatlas.org/resources/?gclid=EAIaIQobChMIiavtuqO3_gIVBQtlCh1L0AgDEAAYASAAEgJkx_D_BwE 
