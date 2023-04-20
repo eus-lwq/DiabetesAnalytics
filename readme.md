@@ -20,14 +20,15 @@ The dataset we used is from Kaggle "Diabetes health indicators dataset [2]", the
 Can check the report section 2.0 in *STAT362_Diabetes_health_indicator_analytics_report.pdf*
 
 ### Approaches
-* Naïve Bayes
-* Decision tree 
-* Random forest
-* Logistic regression 
-* K Nearest Neighbor (KNN)
+All the files need to change the csv file path to *diabetes_012_health_indicators_BRFSS2015.csv*.
+* Naïve Bayes - *Naive_Bayes.R*
+* Decision tree - *Decision_Tree.R*
+* Random forest - *Random_Forest.R*
+* Logistic regression - *Logistic_ Regression.R*
+* K Nearest Neighbor (KNN) - *KNN_normal.R* contains KNN method without using cross validation, *KNN_CrossValidation.R* contains cross validation.
 
 ### Result
-Can check the report in *STAT362_Diabetes_health_indicator_analytics_report.pdf*
+check the report in *STAT362_Diabetes_health_indicator_analytics_report.pdf*
 
 ### Contributions
 Contributions:
