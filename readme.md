@@ -1,6 +1,8 @@
 
 <!-- ABOUT THE PROJECT -->
 # Diabetes Health Indicator Analytics
+Presentation google slides: https://docs.google.com/presentation/d/12Mv9h681LueRBsFd8HxsX2r532fXqK083eDiIJ7rN1k/edit?usp=sharing </br>
+Report google doc: https://docs.google.com/document/d/1Qf1MbEfts9M1Enn2ZzlN5cLkTpCuBZx5t9W_OfliO3w/edit?usp=sharing </br>
 
 ### Contributors
 * Wanqing Li 20146670 | 18wl19@queensu.ca
