@@ -1,11 +1,22 @@
 
 <!-- ABOUT THE PROJECT -->
-## Diabetes Analytics
+# Diabetes Analytics
 
-* 
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+### Motivation
+According to IDF Diabetes statistics [1], there are five thirty seven million adults all over the world living with diabetes which means 1 in 10 adults will experience diabetes.  Diabetes is responsible for 6.7 million deaths in 2021 which means 1 Death every 5 seconds. Diabetic patients more likely to be hospitalized due to serious risks such as Blindness, Heart Disease, Loss of arm or legs, kidney failure and reduce lifetime etc. Meanwhile, Diabetes also causes hundreds of billion US dollars in health expenditure around the world. That's why it's important for us to understand how to prevent and manage diabetes effectively. By analyzing risk factors. and use. We hope that we can help people to know their diabate possibility as an early screening tool. Make people live healthier. And reduce the overall burden of this disease on our society. To achieve our goal, we chose a dataset called Diabete Health Indicator [2] from Kaggle, prior works on Kaggle are mostly using the Neural Networks to train prediction models, and we only use statistical methods in this report to try to compare with them.
 
+### Data Visualizations
+Can check the report section 2.0 in *STAT362_Diabetes_health_indicator_analytics_report.pdf*
+
+### Approaches
+* Naïve Bayes
+* Decision tree 
+* Random forest
+* Logistic regression 
+* K Nearest Neighbor (KNN)
+
+### Result
+Can check the report in *STAT362_Diabetes_health_indicator_analytics_report.pdf*
 ### Contributors
 * Wanqing Li 20146670 | 18wl19@queensu.ca
 * Yulu Chen 20150856 | 18yc124@queensu.ca
@@ -13,4 +24,23 @@
 * Yingqi Xu 20158700 | 18yx84@queensu.ca
 * Sixuan Zhang 20204414 | 19sz61@queensu.ca
 * Yiying Chen 20198951 | 19yc56@queensu.ca
+
+### References
+[1] International Diabetes Federation. (2021). Resources. Diabetes Atlas. Retrieved April 20, 2023, from https://diabetesatlas.org/resources/?gclid=EAIaIQobChMIiavtuqO3_gIVBQtlCh1L0AgDEAAYASAAEgJkx_D_BwE 
+
+[2] Teboul, A. (2021). Diabetes health indicators dataset. Kaggle. Retrieved April 20, 2023, from https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset 
+
+[3] Zhang Z. (2016). Naïve Bayes classification in R. Annals of translational medicine, 4(12), 241. https://doi.org/10.21037/atm.2016.03.38
+
+[4] What is Naïve Bayes | IBM. (n.d.). https://www.ibm.com/topics/naive-bayes#:~:text=The%20Na%C3%AFve%20Bayes%20classifier%20is,a%20given%20class%20or%20category.
+
+[5] Ling, B. (n.d.). Decision Tree.  Retrieved April 19, 2023, from https://onq.queensu.ca/d2l/le/content/763470/viewContent/4648485/View
+
+[6] JavaTpoint. (n.d.). Machine Learning Random Forest Algorithm - Javatpoint. Www.javatpoint.com. https://www.javatpoint.com/machine-learning-random-forest-algorithm 
+
+[7] Introduction to Random Forest in Machine Learning. (n.d.). Engineering Education (EngEd) Program | Section. Retrieved April 20, 2023, from https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/#:~:text=Advantages%20of%20random%20forest%201%20It%20can%20perform 
+
+[8] Ling, B. (n.d.). K-nearest neighbors. Retrieved April 19, 2023, from https://brian-ling.github.io/k-nearest-neighbors.html
+
+Acknowledgement: Our work is polished and grammar is fixed by ChatGPT.
 
